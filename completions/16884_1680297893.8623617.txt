@@ -1,0 +1,9 @@
+Sentiment: The sentiment in the news article is positive.
+
+Article:
+CALNY INC &lt;CLNY> SETS QUARTERLY
+  Qtly div four cts vs four cts prior
+      Pay May 13
+      Record April 29
+  
+

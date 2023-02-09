@@ -1,0 +1,9 @@
+Sentiment: The sentiment can be classified as positive because the company is increasing its quarterly dividend.
+
+Article:
+GORMAN-RUPP CO &lt;GRC> SETS QUARTERLY
+  Qtly div 21 cts vs 21 cts prior
+      Pay June 10
+      Record May Eight
+  
+

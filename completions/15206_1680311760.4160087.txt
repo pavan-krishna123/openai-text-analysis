@@ -1,0 +1,1 @@
+Sentiment: The sentiment of the news article can be classified as negative because it talks about how the U.S. lawmakers are frustrated with Japan's restrictive rice import policy.

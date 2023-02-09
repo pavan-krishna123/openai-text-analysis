@@ -1,0 +1,8 @@
+Sentiment: The sentiment in the news article is positive.
+
+Article:
+U.S. TRUST CORP FIRST QTR SHR 88 CTS VS 83 CTS
+
+  U.S. TRUST CORP FIRST QTR SHR 88 CTS VS 83 CTS
+  
+

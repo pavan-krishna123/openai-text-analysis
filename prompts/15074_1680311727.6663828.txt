@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+FLEET FINANCIAL GROUP 1ST QTR SHR 73 CTS VS 60 CTS 
+
+  FLEET FINANCIAL GROUP 1ST QTR SHR 73 CTS VS 60 CTS 
+  
+

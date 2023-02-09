@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+Japan March wholesale prices rise 0.2 pct (0.1 pct February drop) - official
+
+  Japan March wholesale prices rise 0.2 pct (0.1 pct February drop) - official
+  
+

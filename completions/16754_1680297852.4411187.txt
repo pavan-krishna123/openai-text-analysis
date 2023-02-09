@@ -1,0 +1,8 @@
+Sentiment: The sentiment in the news article is positive.
+
+Article:
+Bank of Japan intervening to support dollar against yen, dealers
+
+  Bank of Japan intervening to support dollar against yen, dealers
+  
+

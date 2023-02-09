@@ -1,0 +1,1 @@
+Sentiment: The sentiment of the following news article can be classified as negative due to the fact that it discusses the potential for new high tariffs between the United States and Japan.

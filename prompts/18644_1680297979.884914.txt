@@ -1,0 +1,9 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+LIBERTY FINANCIAL SAYS IT AGREES TO BE ACQUIRED BY
+EQUIMARK FOR 48 DLRS PER SHARE
+
+  LIBERTY FINANCIAL SAYS IT AGREES TO BE ACQUIRED BY
+  EQUIMARK FOR 48 DLRS PER SHARE
+  
+

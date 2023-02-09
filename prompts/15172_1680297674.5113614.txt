@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+DOW JONES AND CO INC FIRST QUARTER SHR 69 CTS VS 64 CTS
+
+  DOW JONES AND CO INC FIRST QUARTER SHR 69 CTS VS 64 CTS
+  
+

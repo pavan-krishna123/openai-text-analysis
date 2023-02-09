@@ -1,0 +1,9 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+FED'S SEGER SAYS U.S. THRIFT INDUSTRY NEEDS STABLE
+INTEREST RATES
+
+  FED'S SEGER SAYS U.S. THRIFT INDUSTRY NEEDS STABLE
+  INTEREST RATES
+  
+

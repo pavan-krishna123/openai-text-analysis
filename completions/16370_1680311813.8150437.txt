@@ -1,0 +1,1 @@
+Sentiment: The tone of the article is positive.

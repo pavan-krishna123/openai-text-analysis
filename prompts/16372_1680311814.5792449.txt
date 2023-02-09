@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+U.S. TRUST CORP FIRST QTR SHR 88 CTS VS 83 CTS
+
+  U.S. TRUST CORP FIRST QTR SHR 88 CTS VS 83 CTS
+  
+

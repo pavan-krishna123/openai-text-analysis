@@ -1,0 +1,1 @@
+Sentiment: The sentiment in the news article could be classified as positive because IBM had a good quarter and analysts are optimistic about the company's prospects for the year.

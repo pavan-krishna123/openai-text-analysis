@@ -1,0 +1,9 @@
+Sentiment: The news sentiment for the Diebold Incorporation is positive because they are declaring a dividend.
+
+Article:
+DIEBOLD INC &lt;DBD> DECLARES DIVIDEND
+  Qtly div 30 cts vs 30 cts prior
+      Pay June 8
+      Record May 18
+  
+

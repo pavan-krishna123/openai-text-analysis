@@ -1,0 +1,6 @@
+Sentiment: The sentiment of this news article is positive.
+
+Article:
+18-JUN-1987
+  18-JUN-1987
+

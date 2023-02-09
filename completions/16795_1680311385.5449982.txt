@@ -1,0 +1,1 @@
+Sentiment: The sentiment of theFollowing news article is positive.

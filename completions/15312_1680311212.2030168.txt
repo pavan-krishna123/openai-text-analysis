@@ -1,0 +1,1 @@
+Sentiment: The news article has a negative sentiment because it discusses Intercare's fourth quarter loss, write off of expenses, and increase in reserves against accounts receivable.

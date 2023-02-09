@@ -1,0 +1,9 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+SOUTHLAND CORP RAISED CRUDE OIL POSTINGS 50 CTS/BBL, WTI
+NOW 19 DLRS/BBL
+
+  SOUTHLAND CORP RAISED CRUDE OIL POSTINGS 50 CTS/BBL, WTI
+  NOW 19 DLRS/BBL
+  
+

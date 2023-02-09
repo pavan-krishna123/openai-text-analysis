@@ -1,0 +1,9 @@
+Sentiment: The sentiment of the news article can be classified as positive because the company is raising their quarterly payment and setting a new record.
+
+Article:
+ANGELL CARE MASTER LP &lt;ACR> RAISES QUARTERLY
+  Shr 38 cts vs 36 cts prior
+      Pay July 31
+      Record June 23
+  
+

@@ -1,0 +1,9 @@
+Sentiment: The sentiment of the news article is neutral.
+
+Article:
+LILLY INDUSTRIAL COATINGS INC &lt;LICIA> IN PAYOUT
+  Qtly div 10-1/2 cts vs 10-1/2 cts prior
+      Pay July One
+      Record June 10    
+  
+

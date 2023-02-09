@@ -1,0 +1,1 @@
+Sentiment: The sentiment of the news article could be classified as positive because it discusses the rising consumer price index, a measure of inflation.

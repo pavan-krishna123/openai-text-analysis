@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+GTE CORP 1ST QTR SHR 78 CTS VS 86 CTS
+
+  GTE CORP 1ST QTR SHR 78 CTS VS 86 CTS
+  
+

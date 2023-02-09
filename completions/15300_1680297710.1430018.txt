@@ -1,0 +1,9 @@
+Sentiment: The sentiment in this news article is neutral because it just reports financial information without any emotional language.
+
+Article:
+VULCAN CORP &lt;VUL> REGULAR DIVIDEND
+  Qtly div 20 cts vs 20 cts in prior qtr
+      Payable June 10
+      Record May 22
+  
+

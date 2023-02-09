@@ -1,0 +1,1 @@
+Sentiment: The sentiment in the news article is neutral.

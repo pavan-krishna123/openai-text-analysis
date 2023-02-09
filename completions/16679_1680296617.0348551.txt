@@ -1,0 +1,9 @@
+Sentiment: The sentiment in this news article is positive.
+
+Article:
+PS GROUP INC &lt;PSG> QTLY DIVIDEND
+  Shr 15 cts vs 15 cts prior qtr
+      Pay May 18
+      Record April 27
+  
+

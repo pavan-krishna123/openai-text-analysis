@@ -1,0 +1,8 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+CALNY INC &lt;CLNY> SETS QUARTERLY
+  Qtly div four cts vs four cts prior
+      Pay May 13
+      Record April 29
+  
+
