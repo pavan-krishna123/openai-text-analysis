@@ -1,0 +1,1 @@
+Sentiment: The sentiment of the news article is negative because the company's earnings are lower than they were the previous quarter.

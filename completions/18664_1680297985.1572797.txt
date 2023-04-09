@@ -1,0 +1,10 @@
+Sentiment: The sentiment in the news article is positive.
+
+Article:
+U.S. PERSONAL INCOME ROSE 0.2 PCT IN MAY, SPENDING UP 0.1
+PCT
+
+  U.S. PERSONAL INCOME ROSE 0.2 PCT IN MAY, SPENDING UP 0.1
+  PCT
+  
+

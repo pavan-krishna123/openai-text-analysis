@@ -1,0 +1,9 @@
+Sentiment: The sentiment is negative because the dividend was reduced from the previous quarter.
+
+Article:
+AMBRIT INC &lt;ABI> IN PAYOUT
+  Qtly div two cts vs two cts prior
+      Pay May 22
+      Record May Eight  
+  
+

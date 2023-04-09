@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+BANK OF NEW ENGLAND CORP 1ST QTR SHR 1.04 DLRS VS 83 CTS
+
+  BANK OF NEW ENGLAND CORP 1ST QTR SHR 1.04 DLRS VS 83 CTS
+  
+

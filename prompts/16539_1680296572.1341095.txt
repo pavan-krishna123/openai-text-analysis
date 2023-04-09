@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+WELLS FARGO AND CO 1ST QTR SHR 1.36 DLRS VS 1.13 DLRS
+
+  WELLS FARGO AND CO 1ST QTR SHR 1.36 DLRS VS 1.13 DLRS
+  
+

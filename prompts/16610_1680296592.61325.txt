@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+MARINE MIDLAND BANKS INC 1ST QTR 1.74 DLRS VS 1.89 DLRS
+
+  MARINE MIDLAND BANKS INC 1ST QTR 1.74 DLRS VS 1.89 DLRS
+  
+

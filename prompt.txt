@@ -1,0 +1,1 @@
+Please read the text of the news article as positive or negative and give me output:

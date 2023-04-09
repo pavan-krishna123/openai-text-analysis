@@ -1,0 +1,6 @@
+Sentiment: The sentiment of the article is negative.
+
+Article:
+13-APR-1987
+  13-APR-1987
+

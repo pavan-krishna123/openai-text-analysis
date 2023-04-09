@@ -1,0 +1,8 @@
+Sentiment: The sentiment of the following news article is negative.
+
+Article:
+Bank of Japan intervenes to support dollar after Tokyo opening, dealers
+
+  Bank of Japan intervenes to support dollar after Tokyo opening, dealers
+  
+

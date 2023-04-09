@@ -1,0 +1,9 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+FRANKLIN INSURED SETS MONTHLY PAYOUT
+  Mthly div 7.1 cts vs 7.1 cts prior
+      Pay April 30
+      Reord April 15
+      NOTE: Franklin Insured Tax-Free Income Fund.
+  
+

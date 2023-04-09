@@ -1,0 +1,9 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+U.K. APRIL INDUSTRIAL OUTPUT RISES 0.3 PCT, MANUFACTURING
+UP 0.55 PCT - OFFICIAL
+
+  U.K. APRIL INDUSTRIAL OUTPUT RISES 0.3 PCT, MANUFACTURING
+  UP 0.55 PCT - OFFICIAL
+  
+

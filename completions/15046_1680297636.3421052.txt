@@ -1,0 +1,6 @@
+Sentiment: positive
+
+Article:
+ 8-APR-1987 11:06:39.06
+   8-APR-1987 11:06:39.06
+

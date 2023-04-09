@@ -1,0 +1,1 @@
+Sentiment: The sentiment in the news article is positive because the U.S. Trust Corp's first quarter earnings were up five cents per share from the previous quarter.

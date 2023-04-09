@@ -1,0 +1,1 @@
+Sentiment: This news article has a negative sentiment because it is talking about how business loans have fallen.

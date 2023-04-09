@@ -1,0 +1,5 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+ 8-APR-1987 11:06:39.06
+   8-APR-1987 11:06:39.06
+

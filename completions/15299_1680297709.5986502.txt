@@ -1,0 +1,9 @@
+Sentiment: The sentiment of this news article is positive because is announces that the company is declares a quarterly dividend.
+
+Article:
+DAYTON HUDSON CORP &lt;DH> VOTES QUARTERLY PAYOUT
+  Qtly div 23 cts vs 23 cts prior qtr
+      Pay 10 June
+      Record 20 May
+  
+

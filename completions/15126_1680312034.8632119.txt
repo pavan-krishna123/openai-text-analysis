@@ -1,0 +1,1 @@
+Sentiment: This is a financial report, so it is difficult to classify the sentiment as positive or negative.

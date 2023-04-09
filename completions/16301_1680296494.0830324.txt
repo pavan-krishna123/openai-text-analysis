@@ -1,0 +1,6 @@
+Sentiment: The article is classified as being positive.
+
+Article:
+13-APR-1987
+  13-APR-1987
+

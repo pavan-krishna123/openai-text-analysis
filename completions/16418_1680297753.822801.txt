@@ -1,0 +1,8 @@
+Sentiment: The sentiment of the news article is negative.
+
+Article:
+GTE CORP 1ST QTR SHR 78 CTS VS 86 CTS
+
+  GTE CORP 1ST QTR SHR 78 CTS VS 86 CTS
+  
+

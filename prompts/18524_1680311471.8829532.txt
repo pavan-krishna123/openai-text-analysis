@@ -1,0 +1,9 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+FRENCH OFFICIAL RESERVES 420.50 BILLION FRANCS IN MAY VS
+420.24 BILLION APRIL - OFFICIAL
+
+  FRENCH OFFICIAL RESERVES 420.50 BILLION FRANCS IN MAY VS
+  420.24 BILLION APRIL - OFFICIAL
+  
+

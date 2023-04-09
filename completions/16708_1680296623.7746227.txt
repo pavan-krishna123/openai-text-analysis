@@ -1,0 +1,8 @@
+Sentiment: The sentiment of the news article is positive.
+
+Article:
+INDEPENDENT BANK CORP &lt;IBCP.O> 1ST QTR NET
+  Shr 27 cts vs shr 18 cts
+      Net 477,000 vs 305,000
+  
+

@@ -1,0 +1,11 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+IMPERIAL OIL RAISES CRUDE OIL POSTINGS 32 CANADIAN
+CTS/BBL, LIGHT SWEET NOW 25.60
+
+
+  IMPERIAL OIL RAISES CRUDE OIL POSTINGS 32 CANADIAN
+  CTS/BBL, LIGHT SWEET NOW 25.60
+  
+  
+

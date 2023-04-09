@@ -1,0 +1,10 @@
+Sentiment: The sentiment of this news article is positive.
+
+Article:
+U.K. MAY ADJUSTED M3 RISES PROVISIONAL 2.1 PCT, M0 UP 0.5
+PCT - BANK OF ENGLAND
+
+  U.K. MAY ADJUSTED M3 RISES PROVISIONAL 2.1 PCT, M0 UP 0.5
+  PCT - BANK OF ENGLAND
+  
+

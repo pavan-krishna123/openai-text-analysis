@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+GENERAL ELECTRIC CO 1ST QTR SHR 1.37 DLRS VS 1.18 DLRS
+
+  GENERAL ELECTRIC CO 1ST QTR SHR 1.37 DLRS VS 1.18 DLRS
+  
+
