@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+API SAYS DISTILLATE STOCKS UP 2.85 MLN BBLS, GASOLINE OFF 2.37 MLN, CRUDE OFF 1.13 MLN 
+
+  API SAYS DISTILLATE STOCKS UP 2.85 MLN BBLS, GASOLINE OFF 2.37 MLN, CRUDE OFF 1.13 MLN 
+  
+

@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+FRENCH 13-WEEK T-BILL AVERAGE RATE RISES TO 7.39 PCT FROM 7.36 PCT - OFFICIAL
+
+  FRENCH 13-WEEK T-BILL AVERAGE RATE RISES TO 7.39 PCT FROM 7.36 PCT - OFFICIAL
+  
+

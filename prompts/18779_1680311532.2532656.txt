@@ -1,0 +1,5 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+18-JUN-1987
+  18-JUN-1987
+

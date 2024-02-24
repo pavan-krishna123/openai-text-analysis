@@ -1,0 +1,1 @@
+Sentiment: The sentiment of the news article can be classified as positive because the company's financials are all better in the fourth quarter compared to the same quarter from the previous year.

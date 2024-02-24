@@ -1,0 +1,7 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+CHEMICAL NEW YORK CORP 1ST QTR SHR 1.58 DLRS VS 1.93 DLRS
+
+  CHEMICAL NEW YORK CORP 1ST QTR SHR 1.58 DLRS VS 1.93 DLRS
+  
+

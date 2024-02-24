@@ -1,0 +1,1 @@
+Sentiment: The sentiment of the news article can be classified as negative due to the fact that the company is expecting to report a loss for the first quarter.

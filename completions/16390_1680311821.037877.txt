@@ -1,0 +1,1 @@
+Sentiment: This news article is positive.

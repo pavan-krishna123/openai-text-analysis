@@ -1,0 +1,9 @@
+Sentiment: The sentiment of the news article is positive because the company's quarterly dividend has remained the same.
+
+Article:
+EVEREST AND JENNINGS &lt;EJ.A> QTLY DIVIDEND
+  Shr five cts vs five cts prior qtr
+      Pay May 15
+      Record April 22
+  
+

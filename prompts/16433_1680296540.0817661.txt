@@ -1,0 +1,8 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+JAPANESE CRUSHERS BUY CANADIAN RAPESEEED
+  Japanese crushers bought 3,000 to
+  4,000 tonnes of Canadian rapeseed in export business overnight
+  for last half May/first half June shipment, trade sources said.
+  
+

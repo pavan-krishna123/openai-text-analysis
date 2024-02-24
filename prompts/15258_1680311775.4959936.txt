@@ -1,0 +1,8 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+RITE AID CORP &lt;RAD> SETS DIVIDEND
+  Qtly div 16-1/2 cts vs 16-1/2 cts
+      Pay April 27
+      Record April 20
+  
+

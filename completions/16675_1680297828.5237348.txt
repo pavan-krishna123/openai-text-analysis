@@ -1,0 +1,9 @@
+Sentiment: The sentiment of this news article is positive.
+
+Article:
+&lt;THERA-CARE INC> TO ACQUIRE CUSHING
+  Thera-Care Inc said it agreed
+  to acquire Cushing and Associates of Glendale, Calif., in
+  exchange for 1,480,000 Thera-Care shares.
+  
+

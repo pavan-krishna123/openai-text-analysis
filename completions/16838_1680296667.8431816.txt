@@ -1,0 +1,9 @@
+Sentiment: The sentiment of this news article is positive because the dividend has not changed from the prior quarter.
+
+Article:
+ONEOK INC &lt;OKE> IN PAYOUT
+  Qtly div 64 cts vs 64 cts prior
+      Pay May 15
+      Record April 30   
+  
+

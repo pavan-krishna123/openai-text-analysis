@@ -1,0 +1,9 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+U.K. MAY ADJUSTED M3 RISES PROVISIONAL 2.1 PCT, M0 UP 0.5
+PCT - BANK OF ENGLAND
+
+  U.K. MAY ADJUSTED M3 RISES PROVISIONAL 2.1 PCT, M0 UP 0.5
+  PCT - BANK OF ENGLAND
+  
+

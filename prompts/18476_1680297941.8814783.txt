@@ -1,0 +1,9 @@
+Please classify the sentiment of the following news article as positive or negative:
+
+HONG KONG'S DAIRY FARM SAYS IT BIDS FOR 22 PCT OF KWIK
+SAVE FOR 146.6 MLN STG
+
+  HONG KONG'S DAIRY FARM SAYS IT BIDS FOR 22 PCT OF KWIK
+  SAVE FOR 146.6 MLN STG
+  
+

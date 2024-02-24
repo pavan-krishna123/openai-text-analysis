@@ -1,0 +1,9 @@
+Sentiment: The sentiment of the article is positive because the Gorman-Rupp Company is paying a quarterly dividend of 21 cents.
+
+Article:
+GORMAN-RUPP CO &lt;GRC> SETS QUARTERLY
+  Qtly div 21 cts vs 21 cts prior
+      Pay June 10
+      Record May Eight
+  
+

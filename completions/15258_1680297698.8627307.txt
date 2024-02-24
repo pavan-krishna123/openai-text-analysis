@@ -1,0 +1,9 @@
+Sentiment: The sentiment in the news article is positive.
+
+Article:
+RITE AID CORP &lt;RAD> SETS DIVIDEND
+  Qtly div 16-1/2 cts vs 16-1/2 cts
+      Pay April 27
+      Record April 20
+  
+
